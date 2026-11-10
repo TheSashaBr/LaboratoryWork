@@ -224,4 +224,4 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 git init
-charts/*.html
+S5_31.10.26/charts/*.html
