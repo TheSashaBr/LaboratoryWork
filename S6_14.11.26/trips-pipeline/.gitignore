@@ -1,0 +1,7 @@
+.venv/
+# Временные файлы Python
+__pycache__/
+# Таблицы и манифест заново создаёт run.py
+data/processed/
+# Графики можно построить заново
+reports/figures/
